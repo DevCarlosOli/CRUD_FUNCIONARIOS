@@ -1,0 +1,11 @@
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\bin\Debug\CestaBasica.exe.config
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\bin\Debug\CestaBasica.exe
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\bin\Debug\CestaBasica.pdb
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\obj\Debug\CestaBasica.csproj.AssemblyReference.cache
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\obj\Debug\CestaBasica.Properties.Resources.resources
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\obj\Debug\CestaBasica.csproj.GenerateResource.cache
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\obj\Debug\CestaBasica.csproj.CoreCompileInputs.cache
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\obj\Debug\CestaBasica.exe
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\obj\Debug\CestaBasica.pdb
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\obj\Debug\CestaBasica.TelaInicial.resources
+C:\Users\Delta Clicheria\Documents\projeto\CestaBasica\CestaBasica\obj\Debug\CestaBasica.CadastroFuncionario.resources
